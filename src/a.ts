@@ -1,3 +1,4 @@
-import { TLA } from "./b";
+import { B } from "./b";
+import { C } from "./c";
 
-console.log("TLA", TLA);
+console.log("Hello", B, C);

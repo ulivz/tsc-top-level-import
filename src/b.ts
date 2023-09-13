@@ -1,5 +1,4 @@
-import { sleep } from "./c";
+import { sleep } from "./d";
 
-await sleep(300);
-
-export const TLA = 1;
+await sleep(1000);
+export const B = 'TLA (b)';

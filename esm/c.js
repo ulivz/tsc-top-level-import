@@ -1,5 +1,3 @@
-export function sleep(t) {
-    return new Promise((resolve) => {
-        setTimeout(resolve, t);
-    });
-}
+import { sleep } from "./d";
+await sleep(500);
+export const C = 'TLA (c)';
