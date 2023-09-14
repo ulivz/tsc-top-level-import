@@ -1,3 +1,3 @@
-import { B } from "./b";
-import { C } from "./c";
+import { B } from "./b.js";
+import { C } from "./c.js";
 console.log("Hello", B, C);
