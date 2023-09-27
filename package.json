@@ -4,6 +4,6 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "execute": "node esm/a.js"
+    "profile": "node esm/a.js"
   }
 }
